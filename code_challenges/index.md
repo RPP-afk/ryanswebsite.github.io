@@ -11,3 +11,4 @@ permalink: /code_challenges/
 This is a test to see if this works.
 
 <!-- Link coding challenges here -->
+<!-- Look at how to add pages and such: https://jekyllrb.com/docs/pages/-->
