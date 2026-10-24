@@ -12,7 +12,7 @@ However, I wish to further develop these coding skills, firstly for my own learn
 
 This site is split into two main pages:
 
-- [Coding Callenges](./coding_challenges/index.html)
+- [Coding Callenges](./code_challenges/index.html)
 - [Documentation](./resources/index.html)
 
 <!-- Maybe add a photo? Maybe a logo or something too? -->
