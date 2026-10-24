@@ -6,6 +6,8 @@ layout: default
 permalink: /code_challenges/
 ---
 
+# Coding Challenges
+
 This is a test to see if this works.
 
 <!-- Link coding challenges here -->
