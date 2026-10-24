@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 
@@ -15,5 +12,5 @@ However, I wish to further develop these coding skills, firstly for my own learn
 
 This site is split into two main pages:
 
-- Coding Callenges
+- [Coding Callenges](./coding_challenges/index.html)
 - Documentation
