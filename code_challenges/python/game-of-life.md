@@ -6,3 +6,4 @@ The Game of Life is as it says on the tin: a simulation that is meant to mimic b
 
 <!-- Link to some pages on cellular automata and John Conway -->
 
+<!-- Look at examples cells, more about Conway and get some gifs -->
